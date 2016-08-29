@@ -6,7 +6,11 @@ Generates frames (discrete values) from composite cubic Bezier curves
 npm install --save easygen
 ```
 
-## EasyGen `constructor(easingOptions, startValue, endValue)`
+## EasyGen `constructor(initValue)`
+
+`initValue` — First calculation value
+
+## Easing `constructor(easingOptions, startValue, endValue)`
 
 `easingOptions` — Options of
 [bezier-easing](https://github.com/gre/bezier-easing)

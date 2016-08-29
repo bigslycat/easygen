@@ -1,6 +1,6 @@
 {
   "name": "easygen",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Generates frames from composite cubic Bezier curves",
   "main": "lib/EasyGen.js",
   "scripts": {

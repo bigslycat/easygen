@@ -1,6 +1,7 @@
 # EasyGen
 
-Generates frames (discrete values) from composite cubic Bezier curves
+Generates frames (discrete values) from composite cubic Bezier curves. Based on
+[BezierEasing](https://github.com/gre/bezier-easing).
 
 ```bash
 npm install --save easygen

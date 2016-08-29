@@ -1,0 +1,44 @@
+{
+  "name": "easygen",
+  "version": "0.0.1",
+  "description": "Generates frames from composite cubic Bezier curves",
+  "main": "lib/EasyGen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Pavel Tereschenko",
+    "email": "me@pavlik.pro",
+    "url": "https://github.com/bigslycat"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigslycat/easygen.git"
+  },
+  "keywords": [
+    "animation",
+    "frames",
+    "bezier",
+    "curves",
+    "easing",
+    "keyframes"
+  ],
+  "bugs": {
+    "url": "https://github.com/bigslycat/easygen/issues"
+  },
+  "homepage": "https://github.com/bigslycat/easygen#readme",
+  "dependencies": {
+    "bezier-easing": "^2.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.2.2",
+    "eslint-config-airbnb": "^10.0.0",
+    "eslint-plugin-import": "^1.13.0",
+    "eslint-plugin-jsx-a11y": "^2.1.0",
+    "eslint-plugin-react": "^6.0.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}

@@ -1,0 +1,20 @@
+extends:
+  - airbnb
+env:
+  browser: true
+  amd: true
+  node: true
+parserOptions:
+  ecmaVersion: 6
+rules:
+  guard-for-in: off
+  strict:
+    - off
+    - global
+  no-console: off
+  import/no-extraneous-dependencies:
+    - error
+    -
+      devDependencies: true
+      optionalDependencies: false
+      peerDependencies: false

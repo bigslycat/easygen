@@ -1,5 +1,7 @@
 # EasyGen
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bigslycat/easygen.svg)](https://greenkeeper.io/)
+
 Generates frames (discrete values) from composite cubic Bezier curves. Based on
 [BezierEasing](https://github.com/gre/bezier-easing).
 
